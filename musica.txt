@@ -2,3 +2,4 @@
 "Bohemian Rhapsody" 
 "Paradise" 
 "Toto de loca" 
+"Como mola la video consola" 
